@@ -1,0 +1,5 @@
+{
+  "name": "Mark Six Simulator",
+  "description": "A simulation of the Mark Six lottery game where users can pick numbers and draw to see if they win.",
+  "requestFramePermissions": []
+}
